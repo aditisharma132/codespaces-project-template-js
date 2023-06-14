@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+    "Currently pursuing Computer Science & Engineering under the department of Artificial Intelligence at Sri Venkateshwara College Of Engineering, Bangalore [2020-24]. I am a passionate learner and an active participant in hackathons. I enjoy exploring new dimensions of technology and learning them which require me to push myself beyond the comfort zone and contribute while enriching my learnings. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,

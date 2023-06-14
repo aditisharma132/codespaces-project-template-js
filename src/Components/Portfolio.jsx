@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Echo-Quest",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Waste management app: An innovative solution that can make reducing waste and promoting sustainability more accessible, engaging, and achievable for everyone. It tracks and records users’ daily actions related to reducing waste and is rewarded with coupons and money for the same. The app incorporates a shopping experience of recycled waste promotes sustainability and keeps the user engaged.",
+    url: "https://github.com/aditisharma132/eco_quest",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Jeevan Pravah App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a demo Blood donating application in which both donors and patients benefit. Itia made mainly with Js, kotlin in Android Studio. Solves the problem of blood emergencies by connecting blood donors directly with people in blood need. We connect blood donors with recipients, without any intermediaries such as blood banks, for an efficient and seamless process.",
+    url: "https://github.com/aditisharma132/Jeevan_Pravah_App",
   },
   {
-    title: "My Resume Site",
+    title: "The movies",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This a react-based movies app : You can watch your all-time favorite movies at ease just by filtering out the year the movie was released. Moviedb API is used to list out all the movies with their release date and poster",
+    url: "https://github.com/aditisharma132/The-Movies",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Chatered Accountancy",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is an HTML CSS-based e-Commerce Website : Google Maps API, Bootstrap, font-awesome, box icons, etc. are the different styling tools used to make the website look more attractive.",   
+    url: "https://github.com/aditisharma132/Internship-project",
   },
 ];
 
